@@ -1,0 +1,8 @@
+certifi==2020.12.5
+chardet==4.0.0
+-e git+https://github.com/nutanixdev/code-samples.git@a20c9f888009d8a744dd9bebd3b12a7860e2930b#egg=get_host_details&subdirectory=python/get_host_details
+idna==2.10
+PyYAML==5.3.1
+requests==2.25.1
+urllib3==1.26.2
+XlsxWriter==1.3.7

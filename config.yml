@@ -1,0 +1,12 @@
+cluster: cluster.nutanixtestdrive.com
+username: apiuser
+password: somepass
+limits:
+    hosts:
+        total_cpu_core_limit: 8
+        total_memory_usage_gb_limit: 100
+        total_storage_usage_gb_limit: 100
+    vms:
+        total_vms_num_sockets_limit: 2
+        total_vms_memory_size_gb_limit: 8
+        total_vms_disk_size_gb_limit: 10
